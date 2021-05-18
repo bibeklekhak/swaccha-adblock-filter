@@ -156,3 +156,7 @@ www.gadgetbytenepal.com##div[id*="_ad"]
 ! ----- START https://www.prasashan.com -----
 www.prasashan.com##section.widget img
 ! ----- END https://www.prasashan.com -----
+
+! ----- START ujyaaloonline.com -----
+ujyaaloonline.com##.ad
+! ----- END ujyaaloonline.com -----
